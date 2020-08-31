@@ -53,7 +53,7 @@ Step 1: Install necessary softwares:
     
 ## 2. Set up under a domain with cloud host
 
-If you are using any apache server, you can upload the whole project folder in your host under the domain you want to add, create a database accordingly and import the "ums.sql" file to the database you created in your server.
+If you are using any apache server, you can upload the whole project folder in your host under the domain you want to add, create a database accordingly and import the "slimfitshop.sql" file to the database you created in your server.
 
 Then you have to add the database name, user and password to the project config file. Go to the project folder > ums > include > config.php and replace the database name, username and passsword and save the config file in your host server.
 
