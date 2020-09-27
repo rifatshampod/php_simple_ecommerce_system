@@ -42,7 +42,7 @@ Step 1: Install necessary softwares:
    
    - Import database
    
-   inside the folder, there is a subfolder named "DB", the database file is inside this folder named "slimfitshop.sql". Go to http://localhost/phpmyadmin/ again, click on the database "slimfitshop" as you created there, click on Import tab, select the "slimfitshop.sql" file from the project folder, upload the file and click go. The whole database will be imported.
+   inside the folder, there is a subfolder named "DataBase", the database file is inside this folder named "ecomm.sql". Go to http://localhost/phpmyadmin/ again, click on the database "ecomm" as you created there, click on Import tab, select the "slimfitshop.sql" file from the project folder, upload the file and click go. The whole database will be imported.
    
    ![Image of Yaktocat](https://github.com/rifatshampod/images/blob/master/import%20database.png)
    
