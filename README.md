@@ -48,7 +48,30 @@ Step 1: Install necessary softwares:
    
    After the database in imported, go to http://localhost/folderName (here folder name will be the project folder name under xampp/htdocs ) to open the website in browser.
    
+   
+## Credentials :
 
+in the project folder there is a text file containing all the login credentials. 
+---------------------------------------------------------
+Login credentials:
+
+NOTE : (for admin panel, login from the user's login)
+
+Admin Login
+
+Username: admin@admin.com
+
+Password: password
+
+
+
+Model User Login:
+
+Username: harry@den.com
+
+Password: code0
+
+----------------------------------------------------------- 
 -----------------------------------------------------------   
     
 ## 2. Set up under a domain with cloud host
